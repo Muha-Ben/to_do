@@ -22,3 +22,8 @@ subprojects {
 tasks.register<Delete>("clean") {
     delete(rootProject.layout.buildDirectory)
 }
+gradle.projectsEvaluated {
+    tasks.withType<JavaCompile> {
+        options.compilerArgs.add("--enable-native-access=ALL-UNNAMED")
+    }
+}
