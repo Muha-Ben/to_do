@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_slidable: ^4.0.3
   flutter_launcher_icons: ^0.14.4
+  flutter_heatmap_calendar: ^1.0.5
 
 dev_dependencies:
   flutter_test:
