@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-## Work on database [ ].
-## Work on adding slidable and make the habit easy to delete by slide [ ].
+## work on checking the userinput by Form and TextFormField [✔].
+## Work on database  [].
+## Work on adding slidable and make the habit easy to delete by slide  [✔].
 ## Work on ==< making the done habits undone after each 24h >[ ].
-## work on checking the userinput by Form and TextFormField [ ].
